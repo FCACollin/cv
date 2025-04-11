@@ -2,8 +2,8 @@
 title: "Francois Collin, PhD"
 author: "Tychy (Poland), +48 787 906 750 - fca.collin@gmail.com"
 subtitle: Statistical Consultant
-abstract: |
-  Statistician and Senior Statistical Programmer with experience in Clinical Trials
+abstract: Statistician and Senior Statistical Programmer with experience in Clinical Trials
+abstract-title:
 bibliography: ref.bib
 nocite: |
   @*
@@ -122,7 +122,45 @@ machine-learning models and publication.
   for the improvement of market-leader Farmstar: satellite-image based
   management of wheat crops.
 
+# Education
+
+## PhD, Dual Awarded Degree (Apr 2014 to Jan 2018)
+
+The University of Nottingham (UK) and AgroParisTech (France).
+
+- Subject: Tolerance of wheat crops to Septoria tritici blotch.
+- Stats: Study, Protocol Design, Statistical Analysis Plans.
+- Project management: 1 meta-analysis + 3 experiments during 3 years in
+  2 countries with 3 institutes.
+- Outcome: international conferences, peer-review articles,
+  English-written thesis.
+
+## Master of applied statistics & Engineer in Agronomy (Sep 2010 to Sep 2012) 
+
+Agrocampus Ouest - Rennes (France). 1.5-year cursus for applied statistics and
+6-month graduation internship.
+
 # Skills
 
-# Authored Scientific Production
+## Methods
 
+**Statistics** from usual inferential techniques to state-of-the-art
+predictive/machine-learning algorithms, exploratory strategies,
+structure/unstructured data.
+
+**Statistical programming** (>15 years experience), relational database,
+software automation.
+
+## Software/tools
+
+Code/Soft:
+
+- **R, Shiny, R Markdown, markdown** for statistics, reactive prototypes,
+  automated reporting,reproducible science and R packages.
+- Daily user of **git, GitHub, GitLab**.
+- Good knowledge of **SQL (PostgreSQL), LaTeX**, bash, html/css, HPCand much
+  more.
+
+Languages: Native French; Fluent English; Basic Polish.
+
+# Authored Scientific Production
