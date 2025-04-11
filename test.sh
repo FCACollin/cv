@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -ex
+
+# adapt template from initial one available in pandoc, see
+# <https://pandoc.org/MANUAL.html#option--data-dir>
+pandoc -o custom-reference.docx --print-default-data-file reference.docx
+
+pandoc test.md --citeproc --reference-doc template/template.docx -o output.docx
+
