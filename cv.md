@@ -15,40 +15,33 @@ nocite: |
 ## Sep 2022 ongoing, VectivBio AG/Ironwood Pharmaceuticals, Switzerland, Remote
 
 **Biostatistican and Senior Statistical Programmer** contractor, supporting the
-apraglutide programs (New Drug Application, development).
+apraglutide programs (New Drug Application and development).
 
 Clinical Research:
 
 - Phase II, Proof of Concept Trial in GVHD indication
 - Phase II-III, for Short Bowel Syndrom indication
 
-Scope, I:
+Scope:
 
-- Reviewed of protocols and other essential trial documents.
-- Prepared/Contributed to Statistical Analysis Plans (SAP).
-- Was endorsed with oversight of vendors' activities (eg CROs).
-- Presented Results 
-
-Programming and review of TFLs
-- Presentation of results to the stakeholders.
-- Internal insight generation (adhoc output for exploratory internal use)
-- Statistical programming for regulatory submission.
-  - TFLs for CSR, Briefing Book, Summary of Clinical Efficacy, Integrated
-    summary of Safety
-  - Programs for eCTD Module 5:
+- Review of protocols and other essential trial documents.
+- Preparation of Statistical Analysis Plans (SAP).
+- Oversight of vendors' activities (eg CROs)
+- Internal insight generation (adhoc analysis, internal presentation)
+- Regulatory submissions:
+  - preparation of analysis and Tables, Figures, and Listings for regulatory
+    authorities (eg CSR, Briefing Book, Summary of Clinical Efficacy, Integrated
+    Summary of Safety)
+  - Statistical programs ready for eCTD, from ADaMs, Define, reviewer's guides.
 - Statistical programming for evidence generation:
   - Posters, peer-review papers.
-- Programming as part of a process:
-  - Work with cross functional teams.
-- Quality Assurance:
-  - Writing of quality documents (SOP and Work Instructions).
-  - owner of ongoing Change Control for the deployment of a new statistical
-    programming environment.
-
-- work with biostatisticians, data managers, medical writers, and other
-  functions.
-- Quality Control (QC) checks, ad-hoc/post-hoc analyses.
-
+- Statistics as part of the process:
+  - Work with cross functional teams (eg, data managers, clinicians, operation,
+    regulatory, medical writers, safety)
+  - Quality Assurance:
+    - Writing of quality documents (SOP and Work Instructions).
+    - Change Control for the deployment of a new statistical
+      programming environment.
 
 ## Jan 2021 to Aug 2022 (1.5 year), UCB, Belgium, Remote
 
