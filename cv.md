@@ -4,7 +4,8 @@ author: "Tychy (Poland), +48 787 906 750 - fca.collin@gmail.com"
 subtitle: Statistical Consultant
 abstract: Statistician and Senior Statistical Programmer with experience in Clinical Trials
 abstract-title:
-bibliography: ref.bib
+bibliography: ref/ref.bib
+csl: ref/fcc-cv.csl
 nocite: |
   @*
 ---
@@ -16,25 +17,38 @@ nocite: |
 **Biostatistican and Senior Statistical Programmer** contractor, supporting the
 apraglutide programs (New Drug Application, development).
 
-**Trial Statistician** role in Phase II, Proof of Concept Trial in GVHD indication:
+Clinical Research:
 
-- review of protocols and other essential trial documents.
-- writing/review of the statistical analysis plan (SAP).
-- data insight generation
-- preparation of key analysis.
-- oversight of CRO activities.
-- validation of Tables, Figures, and Listings (TFLs).
-- presentation of results during clinical interpretation meetings.
+- Phase II, Proof of Concept Trial in GVHD indication
+- Phase II-III, for Short Bowel Syndrom indication
 
-**Senior Clinical Programmer**, Phase II-III for Short Bowel Syndrom indication:
+Scope, I:
 
-- programming of clinical programming analysis and reporting.
-- work with biostatisticians, data managers, medical writers.
+- Reviewed of protocols and other essential trial documents.
+- Prepared/Contributed to Statistical Analysis Plans (SAP).
+- Was endorsed with oversight of vendors' activities (eg CROs).
+- Presented Results 
+
+Programming and review of TFLs
+- Presentation of results to the stakeholders.
+- Internal insight generation (adhoc output for exploratory internal use)
+- Statistical programming for regulatory submission.
+  - TFLs for CSR, Briefing Book, Summary of Clinical Efficacy, Integrated
+    summary of Safety
+  - Programs for eCTD Module 5:
+- Statistical programming for evidence generation:
+  - Posters, peer-review papers.
+- Programming as part of a process:
+  - Work with cross functional teams.
+- Quality Assurance:
+  - Writing of quality documents (SOP and Work Instructions).
+  - owner of ongoing Change Control for the deployment of a new statistical
+    programming environment.
+
+- work with biostatisticians, data managers, medical writers, and other
+  functions.
 - Quality Control (QC) checks, ad-hoc/post-hoc analyses.
-- preparation for FDA filling.
-- writing of quality documents (SOP and Work Instructions).
-- owner of ongoing Change Control for the deployment of a new statistical
-  programming environment.
+
 
 ## Jan 2021 to Aug 2022 (1.5 year), UCB, Belgium, Remote
 
