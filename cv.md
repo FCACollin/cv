@@ -1,8 +1,14 @@
 ---
 title: "Francois Collin, PhD"
-author: "Tychy (Poland), +48 787 906 750 - fca.collin@gmail.com"
-subtitle: Statistical Consultant
-abstract: Statistician and Senior Statistical Programmer with experience in Clinical Trials
+author: Tychy (Poland), +48 787 906 750, [fca.collin@gmail.com](mailto:fca.collin@gmail.com)
+subtitle: Biostatistician and Programmer
+abstract: |
+  Innovative R Programmer & Biostatistician for Clinical Trials &
+  Drug Development
+
+  _[GitHub: FCACollin](https://github.com/FCACollin),
+  [Linked In: françois-collin-phd-a231a368](https://www.linkedin.com/in/fran%C3%A7ois-collin-phd-a231a368/),
+  [portfoli: fcacollin.github.io/Latarnia](https://fcacollin.github.io/Latarnia/portfolio/)_
 abstract-title:
 bibliography: ref/ref.bib
 csl: ref/fcc-cv.csl
@@ -14,27 +20,30 @@ nocite: |
 
 ## Sep 2022 - Ongoing, VectivBio AG/Ironwood Pharmaceuticals, Switzerland (Remote)
 
-**Biostatistican** (contractor) supporting the apraglutide programs for New
-Drug Application and development.
+Contractor **Biostatistican** supporting the apraglutide programs for new
+drug application.
 
 **Clinical Research:**
 
-- Phase II, Proof of Concept Trial in GVHD indication
 - Phase II-III, for Short Bowel Syndrom indication
+  (STARS [NCT04627025](https://clinicaltrials.gov/study/NCT04627025),
+  STARS extend [NCT05018286](https://clinicaltrials.gov/study/NCT05018286)).
+- Phase II, Proof of Concept Trial in GVHD indication
+  (STARGAZE [NCT05415410](https://clinicaltrials.gov/study/NCT05415410)).
 
 **Responsibilities:**
 
 - **Protocol Review:** Reviewed protocols and essential trial documents. 
 - **Statistical Analysis Plans (SAP):** Prepared and developed SAPs.
-- **Vendor Oversight: Supervised vendors' activities, including CROs.**
+- **Vendor Oversight:** Supervised vendors' activities, including CROs.
 - **Internal Insight Generation:** Conducted ad-hoc analyses and delivered
   internal presentations.
 - **Regulatory Submissions:**
-  - Prepared analyses, Tables, Figures, and Listings for regulatory authorities
+  - Planned analyses, Tables, Figures, and Listings for regulatory authorities
     (e.g., CSR, Briefing Books, Summary of Clinical Efficacy, Integrated Summary
     of Safety).
   - Developed statistical programs ready for eCTD, including ADaMs,
-    Define, and reviewer's guides.
+    Define.xml, and reviewer's guides.
 - **Evidence Generation:** contributed to posters and peer-reviewed papers.
 - **Cross-Functional Collaboration:** Worked with data managers, clinicians,
   operations, regulatory, medical writers, and safety teams.
@@ -45,9 +54,10 @@ Drug Application and development.
 
 ## Jan 2021 - Aug 2022 (1.5 year), UCB, Belgium (Remote)
 
-**Senior statistical programmer**, request-based statistical programming of
-Tables, Figures, and Listings (TFLs) for post-authorization activities including
-post-hoc analysis, market access, and evidence dissemination.
+Contractor **Senior statistical programmer**, request-based statistical
+programming of Tables, Figures, and Listings (TFLs) for post-authorization
+activities including post-hoc analysis, market access, health technology
+assessment, and evidence dissemination.
 
 **Key Contributions:**
 
@@ -69,29 +79,41 @@ post-hoc analysis, market access, and evidence dissemination.
   - Enhanced connections between statistical programmers, IT developers, and
     end-users, emphasizing automation and reproducibility.
 
-## Apr 2020 to Dec 2020 (9 months), Roche, Switzerland, Remote
+## Apr 2020 to- Dec 2020 (9 months), Roche, Switzerland (Remote)
 
-**Senior R programmer** contractor. Software development (R packages)
-from design to execution following Agile process
+As a contractor **Senior R programmer**, I integrated the NEST project,
+developing R packages to accelerate and enhance insight generation for both
+exploratory and regulatory purposes in clinical research.
 
-- Programming R-base suite for statistical analysis of clinical data.
-- From clinical standards STDM/ADaM and analysis to Tables, Listings and Graphs (TLG).
-- R for visualization: base graphs, ggplot2,
-  code new grid elements, Shiny Apps for interactive applications and dashboards,
-  interactive html/js graphs.
-- R for statistics: function development for standard outputs
-  (e.g. mixed model for repeated measurements,
-  Cox PH regressions, binary response analysis).
-- R in a project: package development with continuous integration and
-  development with Jenkins (CI/CD), git-branching workflow, team convention
-  and good practices for robust code.
-- Large autonomy granted, proactive attitude to create value was
-  encouraged: new ideas, identification of risks/opportunities,
-  generate new designs and prototypes.
-  
-## Jan 2020 ongoing, Independent consultant, Poland
+**Key Responsibilities:**
 
-- **Expertise** academic observational studies, academic real world evidence,
+- **R-Based Suite Development**:
+  - Programmed an R-based suite for statistical analysis of clinical data.
+  - Adhered to clinical standards (STDM/ADaM) for analysis and generation of
+    TFLs.
+- **Visualization**:
+  - Developed visualizations using base graphs, `ggplot2`, and custom `grid`
+    elements.
+  - Created Shiny Apps for interactive applications and dashboards.
+  - Implemented interactive HTML/JS graphs.
+- **Statistical Functions:**
+  - Developed R functions for standard statistical outputs, including mixed
+    models for repeated measurements, Cox PH regressions, and binary response
+    analysis.
+- **Project Development Methodologies:**
+  - Seamlessly integrated into an effective Agile Scrum team of developers.
+  - Package development with continuous integration and deployment (CI/CD).
+  - Followed git-branching workflows and team conventions for robust code
+    development.
+- **Proactive Contributions:**
+  - Took a proactive approach to create value, identify risks, and
+    opportunities, providing expert feedback and challenging technical
+    approaches to enhance project outcomes.
+  - Maintained high-quality standards throughout the project lifecycle.
+
+## Jan 2020 - ongoing, Independent consultant, Poland
+
+- **Expertise**: academic observational studies, academic real world evidence,
   genetics biomarker identification, predictive algorithms, publication support,
   reporting automation.
 - **Misc. assignements**:
@@ -109,9 +131,9 @@ from design to execution following Agile process
 
 ## Aug 2018 to Dec 2019 (1.5 years), the Medical University of Białystok, Poland
 
-**Human Genetics/Expert in Sciences and Technology** in the 
-Centre for bioinformatics and data analysis. Research support for data analysis,
-machine-learning models and publication.
+**Human Genetics/Expert in Sciences and Technology** in the Centre for
+bioinformatics and data analysis. Provided research support for data analysis,
+machine learning models, and publications.
  
 - **Lung cancer** - Next Generation Sequencing (NGS) for prognosis,
   **biomarker**, transcriptome for the prediction of type and stage of tumor
@@ -128,7 +150,7 @@ machine-learning models and publication.
 
 ## Other
 
-- Jul 2018 to Mar 2018, Sopra Steria (Poland), Service Analyst in ITIL
+- Mar 2018 - Jul 2018 (5 months), Sopra Steria (Poland), Service Analyst in ITIL
   environment Analysis/resolution of L1 IT support (general assistance, customer
   contact).
 - Sept 2012 to Mar 2014 (1.5 years), Arvalis, France, R&D Researcher/Stat.
@@ -153,27 +175,54 @@ The University of Nottingham (UK) and AgroParisTech (France).
 Agrocampus Ouest - Rennes (France). 1.5-year cursus for applied statistics and
 6-month graduation internship.
 
-# Skills
+# Skills and Tools
 
-## Methods
+_Over 15 years of expertise in statistical programming with R and companion
+technologies, software development methodologies, scientific approaches, and
+effective communication._
 
-**Statistics** from usual inferential techniques to state-of-the-art
-predictive/machine-learning algorithms, exploratory strategies,
-structure/unstructured data.
+## Programming & Technical
 
-**Statistical programming** (>15 years experience), relational database,
-software automation.
+- For Statistical Programming with R, including:
+  - Advanced programming and package creation.
+  - R Markdown or Quarto for literate programming and automated reoprting.
+  - Shiny Apps for interactive dashboard and applications.
+- For Software Development:
+  - Version control with Git & Git Workflows.
+  - Containerization using Docker.
+  - Proficient with programming development platforms
+    (eg GitHub, GitLab, Azure DevOps, Codeberg).
+  - Agile methodologies for software development.
+- For communication / automation:
+  - Hugo as a high-level framework for building websites.
+  - Pandoc as markup format converter.
+  - Misc: LaTeX, HTML/CSS.
 
-## Software/tools
+## Statistics, Data, analytics
 
-Code/Soft:
+- Expertise in data/result visualization.
+- Statistics from usual inferential techniques to state-of-the-art
+  predictive/machine-learning algorithms, exploratory strategies,
+  structure/unstructured data.
+  - eg, handpicked methods relevant in pharma:
+    mixed-model for repeated measurement,
+    matching-adjusted indirect comparison,
+    analysis of variance components,
+    survival analysis,
+    analysis of genetics expression data.
 
-- **R, Shiny, R Markdown, markdown** for statistics, reactive prototypes,
-  automated reporting,reproducible science and R packages.
-- Daily user of **git, GitHub, GitLab**.
-- Good knowledge of **SQL (PostgreSQL), LaTeX**, bash, html/css, HPCand much
-  more.
+## Quality Assurance
 
-Languages: Native French; Fluent English; Basic Polish.
+- Good understanding of quality assurance guiding documents in pharma including
+  21 CFR Part 11, ICH E3, ICH E6, ICH E9.
+- Business owner expertise in GxP Computerized System and change management.
+- Writting of quality documents (Work Instructions and Standard Operating
+  Procedure).
+- Adherence to SOP.
+
+## Communication
+
+- Good scientific writting and communication skills.
+- Language: French native, Polish basic.
 
 # Authored Scientific Production
