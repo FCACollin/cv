@@ -8,7 +8,7 @@ abstract: |
 
   _[GitHub: FCACollin](https://github.com/FCACollin),
   [Linked In: françois-collin-phd-a231a368](https://www.linkedin.com/in/fran%C3%A7ois-collin-phd-a231a368/),
-  [portfoli: fcacollin.github.io/Latarnia](https://fcacollin.github.io/Latarnia/portfolio/)_
+  [portfolio: fcacollin.github.io/Latarnia](https://fcacollin.github.io/Latarnia/portfolio/)_
 abstract-title:
 bibliography: ref/ref.bib
 csl: ref/fcc-cv.csl
@@ -52,7 +52,7 @@ drug application.
   - Owned Change Control for the deployment of a new statistical programming
     environment.
 
-## Jan 2021 - Aug 2022 (1.5 year), UCB, Belgium (Remote)
+## Jan 2021 - Aug 2022 (1.5 years), UCB, Belgium (Remote)
 
 Contractor **Senior statistical programmer**, request-based statistical
 programming of Tables, Figures, and Listings (TFLs) for post-authorization
@@ -63,14 +63,14 @@ assessment, and evidence dissemination.
 
 - **Developer Mindset Promotion:**
   - Increased awareness of the developer mindset for statistical programming.
-  - Introduced distributed version control, git branching workflow, CI/CD, Agile
+  - Introduced distributed version control, Git-branching workflow, CI/CD, Agile
     tool-set, and automated documentation.
 - **R-Based Outputs Development:**
   - Created new statistical programming outputs using R, including improved
     visualizations, reactive outputs (Shiny Apps), interactive apps, videos,
     and automated reporting scripts.
 - **Visualization Catalog:**
-  - Developed an in-house "visualization catalog" to produce a technical
+  - Developed an in-house "visualization catalog" to produce technical
     documentation supporting statistical programming.
 - **Standardization Methods:**
   - Implemented standardization methods such as R Markdown for logs,
@@ -103,17 +103,17 @@ exploratory and regulatory purposes in clinical research.
 - **Project Development Methodologies:**
   - Seamlessly integrated into an effective Agile Scrum team of developers.
   - Package development with continuous integration and deployment (CI/CD).
-  - Followed git-branching workflows and team conventions for robust code
+  - Followed Git-branching workflows and team conventions for robust code
     development.
 - **Proactive Contributions:**
-  - Took a proactive approach to create value, identify risks, and
+  - Took an initiative-taking approach to create value, identify risks, and
     opportunities, providing expert feedback and challenging technical
     approaches to enhance project outcomes.
   - Maintained high-quality standards throughout the project lifecycle.
 
-## Jan 2020 - ongoing, Independent consultant, Poland
+## Jan 2020 - ongoing, Independent Consultant, Poland
 
-- **Expertise**: academic observational studies, academic real world evidence,
+- **Expertise**: academic observational studies, academic real-world evidence,
   genetics biomarker identification, predictive algorithms, publication support,
   reporting automation.
 - **Misc. assignements**:
@@ -172,7 +172,7 @@ The University of Nottingham (UK) and AgroParisTech (France).
 
 ## Master of applied statistics & Engineer in Agronomy (Sep 2010 to Sep 2012) 
 
-Agrocampus Ouest - Rennes (France). 1.5-year cursus for applied statistics and
+Agrocampus Ouest - Rennes (France). 1.5-year courses for applied statistics and
 6-month graduation internship.
 
 # Skills and Tools
@@ -191,7 +191,7 @@ effective communication._
   - Version control with Git & Git Workflows.
   - Containerization using Docker.
   - Proficient with programming development platforms
-    (eg GitHub, GitLab, Azure DevOps, Codeberg).
+    (eg, GitHub, GitLab, Azure DevOps, Codeberg).
   - Agile methodologies for software development.
 - For communication / automation:
   - Hugo as a high-level framework for building websites.

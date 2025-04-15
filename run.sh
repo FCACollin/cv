@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -ex
 
 # adapt template from initial one available in pandoc, see
 # <https://pandoc.org/MANUAL.html#option--data-dir>
