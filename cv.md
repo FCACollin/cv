@@ -12,56 +12,62 @@ nocite: |
 
 # Experience
 
-## Sep 2022 ongoing, VectivBio AG/Ironwood Pharmaceuticals, Switzerland, Remote
+## Sep 2022 - Ongoing, VectivBio AG/Ironwood Pharmaceuticals, Switzerland (Remote)
 
-**Biostatistican and Senior Statistical Programmer** contractor, supporting the
-apraglutide programs (New Drug Application and development).
+**Biostatistican** (contractor) supporting the apraglutide programs for New
+Drug Application and development.
 
-Clinical Research:
+**Clinical Research:**
 
 - Phase II, Proof of Concept Trial in GVHD indication
 - Phase II-III, for Short Bowel Syndrom indication
 
-Scope:
+**Responsibilities:**
 
-- Review of protocols and other essential trial documents.
-- Preparation of Statistical Analysis Plans (SAP).
-- Oversight of vendors' activities (eg CROs)
-- Internal insight generation (adhoc analysis, internal presentation)
-- Regulatory submissions:
-  - preparation of analysis and Tables, Figures, and Listings for regulatory
-    authorities (eg CSR, Briefing Book, Summary of Clinical Efficacy, Integrated
-    Summary of Safety)
-  - Statistical programs ready for eCTD, from ADaMs, Define, reviewer's guides.
-- Statistical programming for evidence generation:
-  - Posters, peer-review papers.
-- Statistics as part of the process:
-  - Work with cross functional teams (eg, data managers, clinicians, operation,
-    regulatory, medical writers, safety)
-  - Quality Assurance:
-    - Writing of quality documents (SOP and Work Instructions).
-    - Change Control for the deployment of a new statistical
-      programming environment.
+- **Protocol Review:** Reviewed protocols and essential trial documents. 
+- **Statistical Analysis Plans (SAP):** Prepared and developed SAPs.
+- **Vendor Oversight: Supervised vendors' activities, including CROs.**
+- **Internal Insight Generation:** Conducted ad-hoc analyses and delivered
+  internal presentations.
+- **Regulatory Submissions:**
+  - Prepared analyses, Tables, Figures, and Listings for regulatory authorities
+    (e.g., CSR, Briefing Books, Summary of Clinical Efficacy, Integrated Summary
+    of Safety).
+  - Developed statistical programs ready for eCTD, including ADaMs,
+    Define, and reviewer's guides.
+- **Evidence Generation:** contributed to posters and peer-reviewed papers.
+- **Cross-Functional Collaboration:** Worked with data managers, clinicians,
+  operations, regulatory, medical writers, and safety teams.
+- **Quality Assurance/GxP:**
+  - Authored quality documents (SOPs and Work Instructions).
+  - Owned Change Control for the deployment of a new statistical programming
+    environment.
 
-## Jan 2021 to Aug 2022 (1.5 year), UCB, Belgium, Remote
+## Jan 2021 - Aug 2022 (1.5 year), UCB, Belgium (Remote)
 
-**Senior statistical programmer** contractor involved in post-authorization
-activities (post-hoc analysis, market access, evidence dissemination).
+**Senior statistical programmer**, request-based statistical programming of
+Tables, Figures, and Listings (TFLs) for post-authorization activities including
+post-hoc analysis, market access, and evidence dissemination.
 
-- increase awareness of the developer mindset for statistical
-  programming (e.g. distributed version control, git branching workflow,
-  CI/CD, Agile tool-set, automated documentation).
-- develop new statistical programming outputs
-  using R: improved visualization, reactive outputs (Shiny App), interactive
-  apps, videos, automated reporting and scripts.
-- develop the "visualization catalog" for in-house ability awareness
-  GxP-supporting packages.
-- provide standardization methods (e.g. R Mardkown for logs, a framework
-  for figure annotation, style guide adoption.
-- enhance connections between statistical programmers,
-  IT developers and end-users with emphasize on automation and
-  reproducibility.
-- request-based statistical programming of TFLs.
+**Key Contributions:**
+
+- **Developer Mindset Promotion:**
+  - Increased awareness of the developer mindset for statistical programming.
+  - Introduced distributed version control, git branching workflow, CI/CD, Agile
+    tool-set, and automated documentation.
+- **R-Based Outputs Development:**
+  - Created new statistical programming outputs using R, including improved
+    visualizations, reactive outputs (Shiny Apps), interactive apps, videos,
+    and automated reporting scripts.
+- **Visualization Catalog:**
+  - Developed an in-house "visualization catalog" to produce a technical
+    documentation supporting statistical programming.
+- **Standardization Methods:**
+  - Implemented standardization methods such as R Markdown for logs,
+    a framework for figure annotation, and style guide adoption.
+- **Cross-Functional Collaboration:**
+  - Enhanced connections between statistical programmers, IT developers, and
+    end-users, emphasizing automation and reproducibility.
 
 ## Apr 2020 to Dec 2020 (9 months), Roche, Switzerland, Remote
 
