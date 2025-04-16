@@ -1,5 +1,5 @@
 ---
-title: "Francois Collin, PhD"
+title: "François Collin, PhD"
 author: Tychy (Poland), +48 787 906 750, [fca.collin@gmail.com](mailto:fca.collin@gmail.com)
 subtitle: Biostatistician and Programmer
 abstract: |
@@ -20,12 +20,12 @@ nocite: |
 
 ## Sep 2022 - Ongoing, VectivBio AG/Ironwood Pharmaceuticals, Switzerland (Remote)
 
-Contractor **Biostatistican** supporting the apraglutide programs for new
+Contractor **Biostatistician** supporting the apraglutide program for new
 drug application.
 
 **Clinical Research:**
 
-- Phase II-III, for Short Bowel Syndrom indication
+- Phase II-III, for Short Bowel Syndrome indication
   (STARS [NCT04627025](https://clinicaltrials.gov/study/NCT04627025),
   STARS extend [NCT05018286](https://clinicaltrials.gov/study/NCT05018286)).
 - Phase II, Proof of Concept Trial in GVHD indication
@@ -89,7 +89,7 @@ exploratory and regulatory purposes in clinical research.
 
 - **R-Based Suite Development**:
   - Programmed an R-based suite for statistical analysis of clinical data.
-  - Adhered to clinical standards (STDM/ADaM) for analysis and generation of
+  - Adhered to clinical standards (SDTM/ADaM) for analysis and generation of
     TFLs.
 - **Visualization**:
   - Developed visualizations using base graphs, `ggplot2`, and custom `grid`
@@ -116,20 +116,20 @@ exploratory and regulatory purposes in clinical research.
 - **Expertise**: academic observational studies, academic real-world evidence,
   genetics biomarker identification, predictive algorithms, publication support,
   reporting automation.
-- **Misc. assignements**:
+- **Misc. assignments**:
   - 2021 Real-World Evidence - Multiple Sclerosis (MS): analysis
     of Polish mortality data - MS as primary cause of death.
   - 2021 Real-World Evidence - Multiple Sclerosis (MS): Associations
     between Immunoglobulin against S or P SARS-COV-2 proteins in a
     pool of RRMS patients.
   - 2021 Clinical study - Investigate the relations between
-    baryatric surgery, endocannabinoid systems and diabetes.
+    bariatric surgery, endocannabinoid systems and diabetes.
   - 2020 Clinical study - micro-RNA and diabetes.
   - 2020 Real-World Evidence - Multiple Sclerosis (MS): analysis of public
-    eletronic health records for the evaluation of MS therapies in Poland
+    electronic health records for the evaluation of MS therapies in Poland
     from 2014 to 2018.
 
-## Aug 2018 to Dec 2019 (1.5 years), the Medical University of Białystok, Poland
+## Aug 2018 to Dec 2019 (1.5 years), the Medical University of Bialystok, Poland
 
 **Human Genetics/Expert in Sciences and Technology** in the Centre for
 bioinformatics and data analysis. Provided research support for data analysis,
@@ -145,8 +145,8 @@ machine learning models, and publications.
 - **Teaching**: 8-hour practical for **RNA-seq data analysis**, PhD student
   co-supervisor.
 - **Pharmacogenomics**: PGx-based contraindication prediction.
-- **Personalised Medicine:** statistics, product development and prototyping for
-  Imagene.me.
+- **Personalized Medicine:** statistics, product development and prototyping for
+  _Imagene.me_.
 
 ## Other
 
@@ -185,7 +185,7 @@ effective communication._
 
 - For Statistical Programming with R, including:
   - Advanced programming and package creation.
-  - R Markdown or Quarto for literate programming and automated reoprting.
+  - R Markdown or Quarto for literate programming and automated reporting.
   - Shiny Apps for interactive dashboard and applications.
 - For Software Development:
   - Version control with Git & Git Workflows.
@@ -203,7 +203,7 @@ effective communication._
 - Expertise in data/result visualization.
 - Statistics from usual inferential techniques to state-of-the-art
   predictive/machine-learning algorithms, exploratory strategies,
-  structure/unstructured data.
+  structured/unstructured data.
   - eg, handpicked methods relevant in pharma:
     mixed-model for repeated measurement,
     matching-adjusted indirect comparison,
@@ -216,13 +216,13 @@ effective communication._
 - Good understanding of quality assurance guiding documents in pharma including
   21 CFR Part 11, ICH E3, ICH E6, ICH E9.
 - Business owner expertise in GxP Computerized System and change management.
-- Writting of quality documents (Work Instructions and Standard Operating
+- Writing of quality documents (Work Instructions and Standard Operating
   Procedure).
 - Adherence to SOP.
 
 ## Communication
 
-- Good scientific writting and communication skills.
+- Good scientific writing and communication skills.
 - Language: French native, Polish basic.
 
 # Authored Scientific Production

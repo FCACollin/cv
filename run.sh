@@ -4,4 +4,7 @@
 # <https://pandoc.org/MANUAL.html#option--data-dir>
 # pandoc -o custom-reference.docx --print-default-data-file reference.docx
 
-pandoc cv.md --citeproc --reference-doc template/template.docx -o cv.docx
+pandoc cv.md \
+  --citeproc \
+  --reference-doc template/template.docx \
+  -o cv_$(date +%Y%m%d_%H%M%S).docx
