@@ -3,8 +3,7 @@ title: "François Collin, PhD"
 author: Tychy (Poland), +48 787 906 750, [fca.collin@gmail.com](mailto:fca.collin@gmail.com)
 subtitle: Biostatistician and Programmer
 abstract: |
-  Innovative R Programmer & Biostatistician for Clinical Trials &
-  Drug Development
+  Experienced Biostatistician and Programmer | Clinical Trials and Drug Development
 
   _[GitHub: FCACollin](https://github.com/FCACollin),
   [Linked In: françois-collin-phd-a231a368](https://www.linkedin.com/in/fran%C3%A7ois-collin-phd-a231a368/),
