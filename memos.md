@@ -1,2 +1,4 @@
 - Handpicked current programming work:
-  LSAF-API-wrapper in R
+  - LSAF-API-wrapper in R
+  - maintain/append a technical documentation as a quarto html book published with GitLab Pages.
+  - keep track of the work in GitLab and work in feature branches.
