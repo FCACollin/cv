@@ -208,6 +208,7 @@ effective communication._
     matching-adjusted indirect comparison,
     analysis of variance components,
     survival analysis,
+    random forest,
     analysis of genetics expression data.
 
 ## Quality Assurance
