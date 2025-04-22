@@ -17,14 +17,14 @@ nocite: |
 
 # Experience
 
-## Sep 2022 - Ongoing, VectivBio AG/Ironwood Pharmaceuticals, Switzerland (Remote)
+## Sep 2022 - Aug 2025 (3 years), VectivBio AG/Ironwood Pharmaceuticals, Switzerland (Remote)
 
-Contractor **Biostatistician** supporting the apraglutide program for new
-drug application.
+_**Ongoing**_. Contractor **Biostatistician** supporting the apraglutide program
+for new drug application.
 
 **Clinical Research:**
 
-- Phase II-III, for Short Bowel Syndrome indication
+- Phase II-III, Short Bowel Syndrome indication
   (STARS [NCT04627025](https://clinicaltrials.gov/study/NCT04627025),
   STARS extend [NCT05018286](https://clinicaltrials.gov/study/NCT05018286)).
 - Phase II, Proof of Concept Trial in GVHD indication
@@ -32,7 +32,7 @@ drug application.
 
 **Responsibilities:**
 
-- **Protocol Review:** Reviewed protocols and essential trial documents. 
+- **Protocol Review:** Reviewed protocols and essential trial documents.
 - **Statistical Analysis Plans (SAP):** Prepared and developed SAPs.
 - **Vendor Oversight:** Supervised vendors' activities, including CROs.
 - **Internal Insight Generation:** Conducted ad-hoc analyses and delivered
@@ -60,10 +60,6 @@ assessment, and evidence dissemination.
 
 **Key Contributions:**
 
-- **Developer Mindset Promotion:**
-  - Increased awareness of the developer mindset for statistical programming.
-  - Introduced distributed version control, Git-branching workflow, CI/CD, Agile
-    tool-set, and automated documentation.
 - **R-Based Outputs Development:**
   - Created new statistical programming outputs using R, including improved
     visualizations, reactive outputs (Shiny Apps), interactive apps, videos,
@@ -77,8 +73,12 @@ assessment, and evidence dissemination.
 - **Cross-Functional Collaboration:**
   - Enhanced connections between statistical programmers, IT developers, and
     end-users, emphasizing automation and reproducibility.
+- **Developer Mindset Promotion:**
+  - Increased awareness of the developer mindset for statistical programming.
+  - Introduced distributed version control, Git-branching workflow, CI/CD, Agile
+    tool-set, and automated documentation.
 
-## Apr 2020 to- Dec 2020 (9 months), Roche, Switzerland (Remote)
+## Apr 2020 - Dec 2020 (9 months), Roche, Switzerland (Remote)
 
 As a contractor **Senior R programmer**, I integrated the NEST project,
 developing R packages to accelerate and enhance insight generation for both
@@ -110,31 +110,31 @@ exploratory and regulatory purposes in clinical research.
     approaches to enhance project outcomes.
   - Maintained high-quality standards throughout the project lifecycle.
 
-## Jan 2020 - ongoing, Independent Consultant, Poland
+## Jan 2020 - ongoing (5+ years), Independent Consultant, Poland
 
-- **Expertise**: academic observational studies, academic real-world evidence,
+- **Expertise**: Academic observational studies, academic real-world evidence,
   genetics biomarker identification, predictive algorithms, publication support,
   reporting automation.
-- **Misc. assignments**:
-  - 2021 Real-World Evidence - Multiple Sclerosis (MS): analysis
-    of Polish mortality data - MS as primary cause of death.
+- **Misc. Assignments**:
+  - 2021 Real-World Evidence - Multiple Sclerosis (MS):
+    Analysis of Polish mortality data - MS as primary cause of death.
   - 2021 Real-World Evidence - Multiple Sclerosis (MS): Associations
     between Immunoglobulin against S or P SARS-COV-2 proteins in a
-    pool of RRMS patients.
-  - 2021 Clinical study - Investigate the relations between
+    pool of MS patients.
+  - 2021 Clinical Study: Investigate the relations between
     bariatric surgery, endocannabinoid systems and diabetes.
-  - 2020 Clinical study - micro-RNA and diabetes.
-  - 2020 Real-World Evidence - Multiple Sclerosis (MS): analysis of public
+  - 2020 Clinical Study: Micro-RNA expression and diabetes.
+  - 2020 Real-World Evidence - MS: analysis of public
     electronic health records for the evaluation of MS therapies in Poland
     from 2014 to 2018.
 
-## Aug 2018 to Dec 2019 (1.5 years), the Medical University of Bialystok, Poland
+## Aug 2018 - Dec 2019 (1.5 years), the Medical University of Bialystok, Poland
 
 **Human Genetics/Expert in Sciences and Technology** in the Centre for
 bioinformatics and data analysis. Provided research support for data analysis,
 machine learning models, and publications.
- 
-- **Lung cancer** - Next Generation Sequencing (NGS) for prognosis,
+
+- **Lung Cancer**: Next Generation Sequencing (NGS) for prognosis,
   **biomarker**, transcriptome for the prediction of type and stage of tumor
   implemented in an interactive and reactive prototype.
 - **Multiple Sclerosis** - Observational study for post-registration therapy
@@ -144,17 +144,17 @@ machine learning models, and publications.
 - **Teaching**: 8-hour practical for **RNA-seq data analysis**, PhD student
   co-supervisor.
 - **Pharmacogenomics**: PGx-based contraindication prediction.
-- **Personalized Medicine:** statistics, product development and prototyping for
+- **Personalized Medicine:** Statistics, product development and prototyping for
   _Imagene.me_.
 
 ## Other
 
-- Mar 2018 - Jul 2018 (5 months), Sopra Steria (Poland), Service Analyst in ITIL
-  environment Analysis/resolution of L1 IT support (general assistance, customer
-  contact).
-- Sept 2012 to Mar 2014 (1.5 years), Arvalis, France, R&D Researcher/Stat.
-  for the improvement of market-leader Farmstar: satellite-image based
-  management of wheat crops.
+- **Mar 2018 - Jul 2018** (5 months), Sopra Steria (Poland): Service Analyst in
+  ITIL environment Analysis/resolution of L1 IT support (general assistance,
+  customer contact).
+- **Sept 2012 - Mar 2014** (1.5 years), Arvalis, France: R&D Researcher/Stat.
+  for the improvement of market-leader Farmstar providing satellite-image based
+  decision-support for the management of wheat crops.
 
 # Education
 
@@ -169,7 +169,7 @@ The University of Nottingham (UK) and AgroParisTech (France).
 - Outcome: international conferences, peer-review articles,
   English-written thesis.
 
-## Master of applied statistics & Engineer in Agronomy (Sep 2010 to Sep 2012) 
+## Master of Applied Statistics & Engineer in Agronomy (Sep 2010 to Sep 2012)
 
 Agrocampus Ouest - Rennes (France). 1.5-year courses for applied statistics and
 6-month graduation internship.
